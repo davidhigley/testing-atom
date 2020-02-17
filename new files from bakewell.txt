@@ -1,4 +1,4 @@
-This text file was created in Bakewell
+This text file was created in Bakewell on Github.
 
 I can edit it in github, but need to know how to 1) push it to (possible - dangerous?) and 2) pull it from Atom on the work laptop.
 
