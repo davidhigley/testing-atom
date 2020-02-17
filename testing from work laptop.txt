@@ -2,11 +2,11 @@ this file was created on the work laptop.
 
 I want to know how to:
 see differences between local and remote
-fetch / pull from remote to local (fetch gets differences, pull commits them)
+fetch / pull from remote to local (fetch just gets differences, pull commits them)
 push from local to remote
 create new branch locally
 create new branch remotely
-name branches usefully
+name branches using conventional naming
 
 
 control
